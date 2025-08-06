@@ -86,7 +86,7 @@ body {
     width: 100%;
     height: 100%;
     z-index: -1;
-    background-image: url('../Media for socials/Screenshot 2024-11-25 204804.png'); /* Placeholder image */
+    background-image: url('https://img.freepik.com/free-vector/dark-gradient-background-with-copy-space_53876-99548.jpg?semt=ais_hybrid&w=740&q=80'); /* Placeholder image */
     background-size: cover;
     background-position: center;
     filter: brightness(0.4); /* Darken the image slightly */
@@ -276,3 +276,4 @@ body {
         height: 300px; /* Adjust height for smaller screens */
     }
 } 
+
