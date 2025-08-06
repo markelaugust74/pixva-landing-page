@@ -1,0 +1,23 @@
+PIXVA appears to be an image generation and management application that integrates with ComfyUI (a stable diffusion interface). Here's a breakdown of its main purposes:
+Image Generation
+Interfaces with ComfyUI to generate AI images
+Allows users to load and execute workflow files (JSON configurations for image generation)
+Monitors a specific output directory for newly generated images
+Image Management
+Provides a gallery-style interface to view generated images
+Implements a like/dislike system for image organization
+Allows users to sort and categorize generated images
+User Interface Features
+Custom window controls (minimize, maximize, close)
+Sidebar navigation for different features
+Login system for user access control
+Full-screen image viewing capabilities
+Workflow Management
+Ability to select and load ComfyUI workflow files
+Integration with ComfyUI's local server (running on port 8188)
+Automated startup of ComfyUI when needed
+The application is built using Electron, which allows it to run as a desktop application while providing integration with the local ComfyUI installation. It serves as a user-friendly frontend for:
+Managing AI image generation workflows
+Viewing and organizing generated images
+Providing a more streamlined interface compared to raw ComfyUI
+The program essentially acts as a bridge between users and ComfyUI, making the AI image generation process more accessible while adding image management capabilities.

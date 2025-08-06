@@ -1,0 +1,14 @@
+Introducing PIXVA - Your Personal AI Art Studio
+
+Transform your creative workflow with PIXVA, the elegant desktop companion for AI image generation. Seamlessly bridging ComfyUI's powerful stable diffusion capabilities with an intuitive gallery experience, PIXVA brings professional-grade AI art creation to your fingertips.
+
+Key Features:
+✨ Streamlined Workflow Management
+🎨 Real-time Image Generation
+📱 Modern Gallery Interface
+💫 Smart Image Organization
+🔄 Seamless ComfyUI Integration
+
+Whether you're an AI artist, content creator, or digital enthusiast, PIXVA provides the perfect environment to bring your imagination to life.
+
+Coming soon to Windows - Join the waitlist now.
